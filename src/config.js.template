@@ -1,13 +1,13 @@
 var config = {
     style: 'mapbox://styles/mapbox/streets-v11',
-    accessToken: 'YOUR_ACCESS_TOKEN',
+    accessToken: 'pk.eyJ1Ijoic2VhZm9ydHJlc3MiLCJhIjoiY2t6aXNjMnBxNGVwbzJ1cGgxMjFndGM3cSJ9.9Dl8dwoUi9TCgW9C_apv7Q',
     showMarkers: true,
     markerColor: '#3FB1CE',
     theme: 'light',
     use3dTerrain: false,
-    title: 'The Title Text of this Story',
-    subtitle: 'A descriptive and interesting subtitle to draw in the reader',
-    byline: 'By a Digital Storyteller',
+    title: 'Historic Springdale',
+    subtitle: 'Some cool old things in and around downtown Springdale',
+    byline: 'Shiloh Museum of History',
     footer: 'Source: source citations, etc.',
     chapters: [
         {
